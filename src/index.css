@@ -1,0 +1,22 @@
+.Hero{
+margin-top: 20vh;
+align-items: center;
+place-items: center;
+gap: 10px;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'poppins',sans-serif;
+}
+.content{
+  margin-top: 20vh;
+}
+div a{
+  text-decoration: none;
+  color: #fff;
+}
+#root{
+  height: 100vh;
+}
